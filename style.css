@@ -1,0 +1,356 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(bg1.png);
+    background-size: cover;
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem auto 0 auto;
+}
+.logo img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 3.5rem;
+    line-height: 6rem;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+}
+.search{
+    margin: 1rem auto 2rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    height: 60px;
+    border: 2px solid white;
+    border-radius: 2rem;
+    background: transparent;
+}
+.search i{
+    width: 5%;
+    margin-right: 20px;
+    color: white;
+}
+.search i:hover{
+    cursor: pointer;
+}
+.search input{
+    padding: 0.5rem;
+    width: 80%;
+    outline: none;
+    border: none;
+    font-size: 1.5rem;
+    background: transparent;
+    color: white;
+    outline: none;
+}
+.search ::placeholder{
+    color: white;
+    background-color: transparent;
+}
+.recipecard{
+    display: flex;
+}
+.carddesign{
+    background-color: #7469B6;
+}
+.recipes{
+    margin: 1rem 8rem 1rem 8rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 1rem;
+}
+.recipepost{
+    width: 450px;
+    background-color: #F1EAFF;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    height: 420px;
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+    border-left: 50px solid #AD88C6;
+}
+.recipepost:hover{
+    box-shadow: 0 0 15px rgba(255, 255, 255, 1);
+}
+.recipepost h2{
+    text-align: center;
+    font-size: 2rem;
+    color: #7469B6;
+    margin-bottom: 5px;
+    /* text-decoration: underline; */
+}
+.recipepost h4{
+    font-size: 1.3rem;
+}
+.recipepost ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 1rem;
+    padding: 0.5rem;
+}
+.recipepost li{
+    font-size: 1.2rem;
+    list-style: circle;
+    padding: 0.2rem;
+    margin-bottom: 5px;
+}
+.seeall{
+    padding: 0.2rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    color: #7469B6;
+    width: 60px;
+    margin-bottom: 5px;
+}
+ .seemore{
+    padding: 0.2rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    color: #7469B6;
+    width: 80px;
+    margin-bottom: 5px;
+ }
+ /* .seeall:hover, .seemore:hover{
+    background-color: #AD88C6;
+    color: black;
+    border-radius: 5px;
+ } */
+.head{
+    font-size: 1.3rem;
+    margin-bottom: 5px;
+}
+.recipepost p{
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.complete1{
+    margin: 3rem auto;
+    height: auto;
+    width: 60%;
+    background-color: #F1EAFF;
+    /* border: 2px solid #7469B6; */
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 2rem 2rem 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.9);
+}
+.complete1 h2{
+    text-align: center;
+    font-size: 2.5rem;
+    color: #7469B6;
+    margin-bottom: 5px;
+}
+.complete1 h4{
+    font-size: 1.5rem;
+}
+.complete1 ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 1rem;
+    padding: 0.5rem;
+    margin-bottom: 5px;
+}
+.complete1 li{
+    font-size: 1.2rem;
+    list-style: circle;
+    padding: 0.2rem;
+    margin-bottom: 5px;
+}
+.head1{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.content{
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    line-height: 2rem;
+    text-align: left;
+}
+#recipeForm{
+    background-color: #F1EAFF;
+    width: 25%;
+    margin: 1rem auto;
+    padding: 2rem 3rem;
+    border-radius: 2rem;
+}
+#recipeForm label{
+    font-size: 1.5rem;
+    padding: 0.5rem;
+}
+#recipeForm input{
+    height: 2rem;
+    width: 100%;
+    border-radius: 0.5rem;
+    border: 2px solid #7469B6;
+    outline: none;
+    margin-top: 1rem;
+    font-size: 1rem;
+    padding: 0.2rem;
+}
+#addIngredient{
+    width: 30px;
+    margin-top: 8px;
+    font-size: 1.5rem;
+    margin-left: 5px;
+    border-radius: 5px;
+    border: 2px solid #7469B6;
+    background-color: #7469B6;
+}
+#ingredientList{
+    margin-top: 1rem;
+    width: 94%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 0.5rem;
+    border: 2px solid #7469B6;
+}
+#ingredientList li{
+    list-style: decimal;
+    font-size: 1.2rem;
+    margin-left: 1rem;
+}
+#recipeForm textarea{
+    height: 2.5rem;
+    width: 100%;
+    border-radius: 0.5rem;
+    border: 2px solid #7469B6;
+    outline: none;
+    margin-top: 1rem;
+    font-size: 1rem;
+    padding: 0.2rem;
+}
+.addbtn{
+    width: 140px;
+    height: 40px;
+    margin: 8px auto;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    border: 1px solid #7469B6;
+    outline: none;
+    background-color: #7469B6;
+}
+.addbtn:hover{
+    background-color: #AD88C6;
+    color: black;
+}
+.addrecipes{
+    display: flex;
+    margin: 1rem auto;
+    justify-content: center;
+}
+.additems{
+    background-color: white;
+    width: 200px;
+    height: 50px;
+    font-size: 1.2rem;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    border: 2px solid white;
+    color: #7469B6;
+    box-shadow: 0 0 6px rgba(255, 255, 255, 0.7);
+}
+.additems:hover{
+    background-color: #7469B6;
+    cursor: pointer;
+    color: black;
+    box-shadow: none;
+}
+.msg-container{
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+    color: #AD88C6;
+}
+.backto{
+    background-color: white;
+    width: 100px;
+    margin-left: 47%;
+    height: 50px;
+    font-size: 1.4rem;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    border: 2px solid white;
+    color: #7469B6;
+    box-shadow: 0 0 6px rgba(255, 255, 255, 0.7);
+}
+.backto:hover{
+    background-color: #AD88C6;
+    color: black;
+}
+.backtohome{
+    text-decoration: none;
+    color: white;
+}
+.options{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 20px;
+}
+.delete{
+    width: 100px;
+    height: 40px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: white;
+    color: #7469B6;
+    box-shadow: 0 0 6px rgba(255, 255, 255, 0.7);
+}
+.delete:hover{
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+.backto1{
+    background-color: white;
+    width: 80px;
+    height: 40px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    border: none;
+    color: #7469B6;
+    text-align: center;
+    outline: none;
+    box-shadow: 0 0 6px rgba(255, 255, 255, 0.7);
+}
+.backto1:hover{
+    background-color: #AD88C6;
+    color: black;
+    border: none;
+    border: 2px solid white;
+}

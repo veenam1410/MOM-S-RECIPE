@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ADD RECIPE</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="logo">
+        <img src="logo.png" alt="">
+    </div>
+    <h1>MOM'S RECIPES</h1>
+    <form id="recipeForm">
+        <label>Title:</label>
+        <br>
+        <input type="text" id="title" required placeholder="Enter the Recipe Name"><br><br>
+
+        <label>Ingredients:</label>
+        <br>
+        <input type="text" id="ingredientInput" placeholder="Add the Ingredients one at a time">
+        <button type="button" id="addIngredient">+</button>
+
+        <ul id="ingredientList"></ul> 
+
+        <br>
+        <label>Steps:</label><br>
+        <textarea id="steps" required></textarea><br><br>
+
+        <button type="submit" class="addbtn">Add Recipe</button>
+    </form>
+
+    <button class="backto">Home</button>
+    <script src="add.js"></script>
+</body>
+</html>

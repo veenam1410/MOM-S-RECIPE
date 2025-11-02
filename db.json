@@ -1,0 +1,221 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Pizza",
+      "ingredients": [
+        "dough",
+        "cheese",
+        "sauce",
+        "vegies",
+        "maida"
+      ],
+      "steps": "To make a delicious pizza at home, start by preparing the dough. In a small bowl, mix warm water, sugar, and yeast, then let it sit for about 5–10 minutes until it becomes foamy. In a large bowl, combine flour, salt, and olive oil, then add the yeast mixture and knead the dough for around 8–10 minutes until it is soft and stretchy. Cover the bowl with a damp cloth and let the dough rise for 1–2 hours until it doubles in size. While the dough is rising, prepare the pizza sauce by heating olive oil in a pan, sautéing minced garlic until golden, then adding tomato puree, salt, oregano, and chili flakes. Let this cook for about 10–15 minutes until the sauce thickens. Once the dough has risen, preheat the oven to 220°C (425°F), punch down the dough, and roll it into your desired shape, either round or rectangular, about half an inch thick. Place it on a greased baking tray or pizza stone, spread the sauce evenly over the base, sprinkle mozzarella cheese, and add your favorite toppings like onions, capsicum, mushrooms, olives, corn, or chicken. Bake the pizza for 12–15 minutes until the crust turns golden and the cheese is bubbling. Finally, garnish with fresh basil or oregano, slice it up, and enjoy your hot, homemade pizza."
+    },
+    {
+      "id": "2",
+      "title": "Veg Burger",
+      "ingredients": [
+        "2 medium potatoes (boiled & mashed)",
+        "1/2 cup boiled mixed veggies (peas, carrots, beans, corn)",
+        "2 tbsp bread crumbs",
+        "1 green chili (finely chopped, optional)",
+        "1/2 tsp ginger-garlic paste",
+        "1/2 tsp red chili powder",
+        "1/2 tsp garam masala (or curry powder)",
+        "Salt to taste",
+        "2 burger buns",
+        "2 cheese slices (optional)",
+        "2 lettuce leaves",
+        "1 tomato (sliced)",
+        "1 onion (rings)",
+        "2 tbsp mayonnaise or veg mayo",
+        "2 tbsp tomato ketchup",
+        "Butter (for toasting buns)",
+        "Oil (for shallow frying patties)"
+      ],
+      "steps": "In a bowl, mix mashed potatoes, boiled veggies, green chili, ginger-garlic paste, spices, salt, and bread crumbs. Shape the mixture into round patties slightly larger than the bun size. Heat oil in a pan and shallow fry patties on medium flame until golden brown and crispy. Slice the burger buns, apply butter, and toast them lightly on a pan until golden. Spread mayonnaise on the bottom bun, add a lettuce leaf, place the veg patty, and top with cheese slice (optional). Add tomato slices, onion rings, and drizzle ketchup. Cover with the top bun and serve hot with fries and a drink."
+    },
+    {
+      "id": "3",
+      "title": "Idli",
+      "ingredients": [
+        "2 cups idli rice",
+        "1 cup urad dal (split black gram)",
+        "1/2 tsp fenugreek seeds (methi)",
+        "Salt to taste",
+        "Water (as required)",
+        "Oil (for greasing idli plates)"
+      ],
+      "steps": "Wash the rice, urad dal, and fenugreek seeds thoroughly. Soak the rice separately and the urad dal with fenugreek seeds for 6 hours. Grind the urad dal into a smooth, fluffy batter and grind the rice into a slightly coarse batter. Mix both batters together, add salt, and allow it to ferment overnight or for 8 to 10 hours until it doubles in volume. Grease the idli plates with oil and pour the batter into each mold. Steam the idlis in an idli steamer or pressure cooker (without weight/whistle) for 10 to 12 minutes. Remove the idlis with a spoon and serve hot with chutney and sambar."
+    },
+    {
+      "id": "4",
+      "title": "Dosa",
+      "ingredients": [
+        "2 cups dosa rice",
+        "1 cup urad dal (split black gram)",
+        "1/2 tsp fenugreek seeds (methi)",
+        "Salt to taste",
+        "Water (as required)",
+        "Oil or ghee (for cooking)"
+      ],
+      "steps": "Wash and soak the rice, urad dal, and fenugreek seeds separately for 6 hours. Grind the urad dal into a fluffy batter and rice into a slightly coarse batter. Mix them well, add salt, and ferment overnight or 8–10 hours until the batter rises and turns airy. Heat a flat dosa tawa and grease lightly with oil. Pour a ladle of batter, spread it thin in a circular motion, and drizzle oil or ghee around the edges. Cook until crisp and golden, then fold and serve hot with chutney and sambar."
+    },
+    {
+      "id": "5",
+      "title": "Veg Sandwich",
+      "ingredients": [
+        "8 slices bread (white or brown)",
+        "2 boiled potatoes (sliced)",
+        "1 cucumber (sliced)",
+        "1 tomato (sliced)",
+        "1 onion (sliced)",
+        "2 tbsp green chutney",
+        "2 tbsp butter",
+        "Salt and pepper to taste",
+        "Cheese slices (optional)"
+      ],
+      "steps": "Take 2 slices of bread and spread butter evenly on both. Apply green chutney on one slice. Arrange potato, cucumber, tomato, and onion slices. Sprinkle salt and pepper over the veggies. Add a cheese slice if you like. Cover with the other bread slice. Press gently, cut into halves or triangles, and serve fresh with ketchup or more chutney."
+    },
+    {
+      "id": "6",
+      "title": "French Fries",
+      "ingredients": [
+        "4 large potatoes",
+        "2 cups cold water",
+        "2 tbsp corn flour (optional, for crispiness)",
+        "Salt to taste",
+        "Oil for deep frying"
+      ],
+      "steps": "Peel and cut potatoes into thin sticks. Rinse them in cold water to remove excess starch. Soak in cold water for 20–30 minutes, then drain and pat dry completely. Toss with a little corn flour if you want extra crisp fries. Heat oil in a deep pan, fry the potato sticks on medium flame until half cooked. Remove, let them cool, then fry again on high flame until golden and crispy. Sprinkle salt immediately and serve hot with ketchup or mayo."
+    },
+    {
+      "id": "7",
+      "title": "Aloo Paratha",
+      "ingredients": [
+        "2 cups whole wheat flour",
+        "3–4 boiled potatoes (mashed)",
+        "1 onion (finely chopped)",
+        "2 green chilies (finely chopped)",
+        "1 tsp ginger (grated)",
+        "2 tbsp fresh coriander leaves (chopped)",
+        "1/2 tsp cumin powder",
+        "1/2 tsp garam masala",
+        "1/2 tsp chili powder",
+        "Salt to taste",
+        "Ghee or oil for roasting"
+      ],
+      "steps": "In a bowl, prepare dough by mixing whole wheat flour, water, and a pinch of salt. Knead until soft and rest for 20 minutes. In another bowl, mix mashed potatoes, onion, green chilies, ginger, coriander, and spices to make the stuffing. Divide dough into balls, roll one ball into a small circle, place stuffing in the center, and seal it. Roll again gently into a paratha. Heat a tawa (griddle), roast the paratha on both sides with ghee or oil until golden brown. Serve hot with curd, pickle, or butter."
+    },
+    {
+      "id": "8",
+      "title": "Veg Biryani",
+      "ingredients": [
+        "2 cups basmati rice",
+        "2 carrots (chopped)",
+        "1 cup beans (chopped)",
+        "1 cup cauliflower florets",
+        "1 cup green peas",
+        "2 onions (thinly sliced)",
+        "2 tomatoes (chopped)",
+        "1/2 cup curd (yogurt)",
+        "2 green chilies (slit)",
+        "1 tbsp ginger-garlic paste",
+        "2 tbsp biryani masala",
+        "1/2 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "Whole spices (2 bay leaves, 4 cloves, 2 cardamom, 1 cinnamon stick)",
+        "3 tbsp oil or ghee",
+        "Fresh coriander & mint leaves",
+        "Salt to taste"
+      ],
+      "steps": "Wash and soak basmati rice for 30 minutes, then cook until 70% done and keep aside. Heat oil or ghee in a deep pan, add whole spices and sauté until aromatic. Add sliced onions and fry until golden. Add ginger-garlic paste, chilies, and tomatoes, cook until soft. Mix in curd, turmeric, red chili powder, and biryani masala. Add all chopped vegetables and cook until slightly tender. In a large vessel, layer cooked rice and vegetable masala alternately, sprinkling coriander, mint, and a little ghee between layers. Cover with a tight lid and cook on low flame (dum) for 15–20 minutes. Serve hot with raita or gravy."
+    },
+    {
+      "id": "9",
+      "title": "Besan Laddu",
+      "ingredients": [
+        "2 cups besan (gram flour)",
+        "1 cup powdered sugar",
+        "1/2 cup ghee",
+        "1/4 tsp cardamom powder",
+        "2 tbsp chopped cashews",
+        "2 tbsp chopped almonds",
+        "2 tbsp raisins"
+      ],
+      "steps": "Heat ghee in a pan and add besan. Roast on low flame, stirring continuously, until golden brown and aromatic (about 12–15 minutes). Add chopped nuts and raisins, roast for another 2 minutes. Turn off the flame and let it cool slightly. Mix in powdered sugar and cardamom powder. While the mixture is still warm, shape into small round laddus using your palms. Allow to set, then store in an airtight container. Serve as a festive sweet or snack."
+    },
+    {
+      "id": "10",
+      "title": "Chicken Curry",
+      "ingredients": [
+        "500g chicken (with bone, cut into medium pieces)",
+        "2 onions (finely sliced)",
+        "2 tomatoes (chopped)",
+        "2 green chilies (slit)",
+        "2 tbsp curd (yogurt)",
+        "1 tbsp ginger-garlic paste",
+        "2 tbsp oil or ghee",
+        "1/2 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tsp coriander powder",
+        "1 tsp garam masala",
+        "Fresh coriander leaves",
+        "Salt to taste"
+      ],
+      "steps": "Heat oil or ghee in a pan, add onions and sauté until golden brown. Add ginger-garlic paste and green chilies, fry for 2 minutes. Add chopped tomatoes and cook until soft. Mix in turmeric, chili powder, coriander powder, and salt. Add chicken pieces, stir well, and cook until the chicken releases juices. Add curd and 1 cup water, cover and cook on medium flame for 20–25 minutes until chicken is tender. Sprinkle garam masala and fresh coriander leaves before serving. Enjoy with rice or roti."
+    },
+    {
+      "id": "11",
+      "title": "Homemade Protein Shake",
+      "ingredients": [
+        "2 cups milk (or almond/soy milk)",
+        "1 ripe banana",
+        "2 tbsp peanut butter",
+        "2 tbsp oats",
+        "1 tbsp honey",
+        "1 scoop protein powder (optional, vanilla or chocolate flavor)",
+        "4–5 almonds or walnuts"
+      ],
+      "steps": "Add milk, banana, peanut butter, oats, honey, nuts, and protein powder (if using) into a blender. Blend until smooth and creamy. Pour into a glass and serve immediately as a post-workout protein drink."
+    },
+    {
+      "id": "12",
+      "title": "Jalebi",
+      "ingredients": [
+        "1 cup all-purpose flour (maida)",
+        "2 tbsp corn flour",
+        "1/4 tsp baking soda",
+        "2 tbsp curd (yogurt)",
+        "1/2 cup water (as needed)",
+        "1/2 tsp turmeric or yellow food color",
+        "Oil or ghee for frying",
+        "1 cup sugar",
+        "1/2 cup water (for syrup)",
+        "1/4 tsp cardamom powder",
+        "Few saffron strands (optional)"
+      ],
+      "steps": "In a bowl, mix all-purpose flour, corn flour, baking soda, curd, turmeric/food color, and water to make a smooth batter. Cover and ferment for 8–10 hours or overnight. Prepare sugar syrup by boiling sugar and water until sticky consistency, then add cardamom powder and saffron. Heat oil or ghee in a flat pan. Fill the fermented batter into a piping bag or squeeze bottle. Pipe spiral shapes into the hot oil and fry until golden and crisp. Immediately dip fried jalebis into warm sugar syrup for 30 seconds. Remove and serve hot and juicy."
+    },
+    {
+      "id": "13",
+      "title": "Chicken Leg Piece Fry",
+      "ingredients": [
+        "4 chicken leg pieces",
+        "2 tbsp curd (yogurt)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp red chili powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp garam masala",
+        "1 tsp coriander powder",
+        "1 tbsp lemon juice",
+        "2 tbsp corn flour (for crispiness)",
+        "2 tbsp rice flour (optional)",
+        "Salt to taste",
+        "Oil for deep frying"
+      ],
+      "steps": "Clean and pat dry the chicken leg pieces. In a bowl, mix curd, ginger-garlic paste, chili powder, turmeric, garam masala, coriander powder, lemon juice, corn flour, rice flour, and salt to make a thick marinade. Coat the chicken legs evenly and marinate for at least 2 hours (or overnight for best taste). Heat oil in a deep pan and fry the chicken leg pieces on medium flame until golden brown and fully cooked inside. Drain excess oil on tissue paper. Serve hot with onion rings, lemon wedges, and mint chutney."
+    }
+  ]
+}
